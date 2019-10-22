@@ -44,6 +44,7 @@
             this.btnToplama.TabIndex = 0;
             this.btnToplama.Text = "Toplama";
             this.btnToplama.UseVisualStyleBackColor = true;
+            this.btnToplama.Click += new System.EventHandler(this.btnToplama_Click);
             // 
             // btnCikartma
             // 
@@ -54,6 +55,7 @@
             this.btnCikartma.TabIndex = 0;
             this.btnCikartma.Text = "Çıkartma";
             this.btnCikartma.UseVisualStyleBackColor = true;
+            this.btnCikartma.Click += new System.EventHandler(this.btnCikartma_Click);
             // 
             // btnCarpma
             // 
@@ -64,6 +66,7 @@
             this.btnCarpma.TabIndex = 0;
             this.btnCarpma.Text = "Çarpma";
             this.btnCarpma.UseVisualStyleBackColor = true;
+            this.btnCarpma.Click += new System.EventHandler(this.btnCarpma_Click);
             // 
             // btnBolme
             // 
@@ -74,6 +77,7 @@
             this.btnBolme.TabIndex = 0;
             this.btnBolme.Text = "Bölme";
             this.btnBolme.UseVisualStyleBackColor = true;
+            this.btnBolme.Click += new System.EventHandler(this.btnBolme_Click);
             // 
             // btnMod
             // 
@@ -84,6 +88,7 @@
             this.btnMod.TabIndex = 0;
             this.btnMod.Text = "Mod";
             this.btnMod.UseVisualStyleBackColor = true;
+            this.btnMod.Click += new System.EventHandler(this.btnMod_Click);
             // 
             // Form1
             // 
