@@ -119,7 +119,7 @@
             this.Controls.Add(this.btnOrnek2);
             this.Controls.Add(this.btnOrnek1);
             this.Name = "Form2";
-            this.Text = "Form2";
+            this.Text = "Form2"; 
             this.ResumeLayout(false);
             this.PerformLayout();
 
